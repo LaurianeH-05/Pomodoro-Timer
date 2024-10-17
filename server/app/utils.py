@@ -1,0 +1,1 @@
+# utility function s(e.g. authentification) 
